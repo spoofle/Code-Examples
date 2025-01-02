@@ -1,4 +1,4 @@
-# 🚀 Welcome to my blog's Github repository!
+# 🚀 Code Meets Cognition
 This readme organizes all the code examples in this repository as well as the corresponding blog posts.
 
 ✍️ Check out my [blog](https://hthota.substack.com/)!
