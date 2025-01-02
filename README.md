@@ -12,5 +12,5 @@ This readme organizes all the code examples in this repository as well as the co
 Document Embedding example adapted from Google's [document_search.ipynb](https://github.com/google/generative-ai-docs/blob/main/site/en/gemini-api/tutorials/document_search.ipynb). This example goes through a use-case of a movie information chatbot.
 > [Blog Post](https://hthota.substack.com/p/semantic-search-simplified-using)
 
-> [Direct Link to Code](https://github.com/spoofle/Code-Examples/tree/main/Movie_Information)
+> [Direct Link to Code](https://github.com/spoofle/Code-Examples/blob/main/Movie_Information/Movie_Info.ipynb)
 
